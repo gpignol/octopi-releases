@@ -1,8 +1,8 @@
 {
   "name": "Octopi",
-  "version": "0.17.1",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "built_at": "2026-09-04T20:00:00Z",
-  "notes": "Update-flow live test feed — replaced by the real release before distribution."
+  "version": "0.17.0",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.17.0/Octopi-0.17.0.dmg",
+  "sha256": "b2eb8aebbb3f6f780cd301fdd23e65bff3dc573e7470ea721246399657c3047c",
+  "built_at": "2026-09-20T22:08:00Z",
+  "notes": "Signed & notarized macOS build."
 }
