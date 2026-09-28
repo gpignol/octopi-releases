@@ -34,6 +34,16 @@ local AI model, so your data never leaves your computer.
 - **Bring your own keys (optional).** Add API keys for providers like Claude, GPT, Gemini, or
   Perplexity when you want them for enrichment — entirely optional.
 
+## What people use it for
+
+- [Enrich a spreadsheet of companies](https://useoctopi.com/for/company-enrichment/)
+- [Automate Salesforce data entry](https://useoctopi.com/for/salesforce-data-entry/) &nbsp;·&nbsp; [Automate HubSpot data entry](https://useoctopi.com/for/hubspot-data-entry/)
+- [Find work emails for a list](https://useoctopi.com/for/find-work-emails/) &nbsp;·&nbsp; [Find people at a company](https://useoctopi.com/for/find-people-at-a-company/)
+- [Track company &amp; competitor news](https://useoctopi.com/for/company-news-monitoring/)
+- **Compare:** [vs Clay](https://useoctopi.com/clay-alternative/) &nbsp;·&nbsp; [vs Apollo](https://useoctopi.com/apollo-alternative/) &nbsp;·&nbsp; [vs Bardeen](https://useoctopi.com/bardeen-alternative/) &nbsp;·&nbsp; [vs Hunter.io](https://useoctopi.com/hunter-alternative/)
+- **Guides:** [How to enrich a spreadsheet](https://useoctopi.com/guides/enrich-a-spreadsheet/) &nbsp;·&nbsp; [What is an AI research agent?](https://useoctopi.com/what-is-an-ai-research-agent/)
+- [**All use cases &amp; guides →**](https://useoctopi.com/use-cases/)
+
 ## Download & install
 
 1. Get Octopi from **[useoctopi.com](https://useoctopi.com)** — a single, signed `.dmg`.
@@ -71,7 +81,8 @@ download is SHA-256-verified against the manifest and checked by macOS Gatekeepe
 
 ## Latest release
 
-**v0.17.1** — pre-launch audit & hardening (bug fixes, no new features).
+**v0.18.1** — the current release: streamlined first-run setup, plus the BYO-key cell-function
+suite, a live Alerts engine, and the attended Chrome bridge for passkey sign-in.
 See [all releases →](https://github.com/gpignol/octopi-releases/releases).
 
 ## Credits
