@@ -1,8 +1,8 @@
 {
   "name": "Octopi",
-  "version": "0.18.0",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.0/Octopi-0.18.0.dmg",
-  "sha256": "b29adaa03019034914c6d9205ae43dbdd52997ffd7789e593e8d07263b18152a",
-  "built_at": "2026-09-28T00:33:43Z",
-  "notes": "Streamlined first-run setup (model-first wizard, one-click Start, passkey-aware Google Chrome check, blank-sheet home). Plus setup robustness hardening and the BYO-key cell-function suite, keyless data functions, the live Alerts engine, and the attended Chrome bridge for Salesforce passkey sign-in."
+  "version": "0.18.1",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.1/Octopi-0.18.1.dmg",
+  "sha256": "f418a2ddfa375f81a30ad25b8dea35a56f4fcca28bacdf57e9da768bf3f12b3c",
+  "built_at": "2026-09-28T16:22:47Z",
+  "notes": "Fixes the first-run setup download progress display — the “Downloading…” line now shows readable numbers (percentage, size, speed) instead of stray vertical bars."
 }
