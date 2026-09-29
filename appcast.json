@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.18.2",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.2/Octopi-0.18.2.dmg",
-  "sha256": "7240527515db2bf9a8049905bff9e8551ae974b64c8bf770e884038431bd9c97",
-  "built_at": "2026-09-29T00:51:42Z",
-  "engine_playwright": "1.62.0",
-  "engine_chromium": "151.0.7922.34",
-  "notes": "Fixes first-run setup on Macs with Google Chrome: setup now opens the sign-in Chrome itself, tasks reopen it if you closed it, and the wizard comes back after an update if setup was never finished. Adds Help ▸ Reset Octopi… to start over."
+  "version": "0.18.3",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.3/Octopi-0.18.3.dmg",
+  "sha256": "3fd3e2eb1e3125f1071370b7945eb0da489549ea070d5c641c94ef3b586a2005",
+  "built_at": "2026-09-29T03:34:23Z",
+  "engine_playwright": "1.63.0",
+  "engine_chromium": "153.0.8010.12",
+  "notes": "Stays on your Chrome with the newest Google Chrome: no second browser window, setup never opens a browser, and the sign-in Chrome opens on a page explaining how Octopi uses it. After updating, Octopi offers a one-time backup-browser download when you next press Run."
 }
