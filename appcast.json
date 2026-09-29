@@ -4,5 +4,7 @@
   "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.2/Octopi-0.18.2.dmg",
   "sha256": "7240527515db2bf9a8049905bff9e8551ae974b64c8bf770e884038431bd9c97",
   "built_at": "2026-09-29T00:51:42Z",
+  "engine_playwright": "1.62.0",
+  "engine_chromium": "151.0.7922.34",
   "notes": "Fixes first-run setup on Macs with Google Chrome: setup now opens the sign-in Chrome itself, tasks reopen it if you closed it, and the wizard comes back after an update if setup was never finished. Adds Help ▸ Reset Octopi… to start over."
 }
