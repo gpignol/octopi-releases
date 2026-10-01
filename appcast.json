@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.18.4",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.4/Octopi-0.18.4.dmg",
-  "sha256": "b129a73bdd663043031dfa26ab3eaa39a3e3a735e602fff5eaa7c46ebdf20008",
-  "built_at": "2026-10-01T02:37:48Z",
+  "version": "0.18.5",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.5/Octopi-0.18.5.dmg",
+  "sha256": "c37c54da835afe245584e1c5c3b245b5de9a8ca4617677cf32eadd78b2dcf390",
+  "built_at": "2026-10-01T04:49:31Z",
   "engine_playwright": "1.63.0",
   "engine_chromium": "153.0.8010.12",
-  "notes": "Change fields on companies and contacts already in Salesforce (fills empty fields; overwrites only when you ask), steadier Salesforce runs, row history, and a plain-language run banner."
+  "notes": "Usage is counted while Octopi stays open; new installs are linked to their download email (with a one-click unlink); error reports from a bad run are no longer lost; long non-English feedback is delivered."
 }
