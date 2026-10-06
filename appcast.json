@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.18.5",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.5/Octopi-0.18.5.dmg",
-  "sha256": "c37c54da835afe245584e1c5c3b245b5de9a8ca4617677cf32eadd78b2dcf390",
-  "built_at": "2026-10-01T04:49:31Z",
+  "version": "0.18.6",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.6/Octopi-0.18.6.dmg",
+  "sha256": "ca1163787f35f16ac59d9853ccf2fa9e9055373c6af290e7cd1b62364ac2ed07",
+  "built_at": "2026-10-06T23:32:27Z",
   "engine_playwright": "1.63.0",
   "engine_chromium": "153.0.8010.12",
-  "notes": "Usage is counted while Octopi stays open; new installs are linked to their download email (with a one-click unlink); error reports from a bad run are no longer lost; long non-English feedback is delivered."
+  "notes": "Pipedrive support; done tasks and contact links work the same in Salesforce, HubSpot and Pipedrive; someone else's open task is never closed; tasks that already happened get past dates; recovery from frozen browser tabs."
 }
