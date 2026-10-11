@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.18.7",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.7/Octopi-0.18.7.dmg",
-  "sha256": "8ecd555792b3d813b82807c662c42c4b401d06845c936d1f78dd8befcc82c6af",
-  "built_at": "2026-10-07T20:41:11Z",
+  "version": "0.18.8",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.8/Octopi-0.18.8.dmg",
+  "sha256": "1c4b8844e81bb49cb62613381f4a7752f0f1d010f8bb5a7f4bbafd4858b4deab",
+  "built_at": "2026-10-11T01:26:10Z",
   "engine_playwright": "1.63.0",
   "engine_chromium": "153.0.8010.12",
-  "notes": "Octopi writes only into the columns it created and keeps yours as they are; never guesses a row's company or website; the website in your sheet wins in your CRM; Stop always prevents a new CRM write."
+  "notes": "Safer CRM writes: a row goes to review when a researched answer isn't clearly backed by the page; \"don't search the web\" is fully honoured; no model-invented due dates; the setup wizard always shows the model picker; a smaller download."
 }
