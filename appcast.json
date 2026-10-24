@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.18.8",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.18.8/Octopi-0.18.8.dmg",
-  "sha256": "1c4b8844e81bb49cb62613381f4a7752f0f1d010f8bb5a7f4bbafd4858b4deab",
-  "built_at": "2026-10-11T01:26:10Z",
-  "engine_playwright": "1.63.0",
-  "engine_chromium": "153.0.8010.12",
-  "notes": "Safer CRM writes: a row goes to review when a researched answer isn't clearly backed by the page; \"don't search the web\" is fully honoured; no model-invented due dates; the setup wizard always shows the model picker; a smaller download."
+  "version": "0.20.0",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.20.0/Octopi-0.20.0.dmg",
+  "sha256": "ff67de69ad287ac1e0984a977b2a3864438c7cb2dfb4045a2daa1aad2624c17b",
+  "built_at": "2026-10-24T18:44:18Z",
+  "engine_playwright": "1.64.0",
+  "engine_chromium": "156.0.8078.4",
+  "notes": "LinkedIn connection invitations (with a practice run first), a chat that works with your sheet's rows, Outlook and every connected CRM at once, faster CRM look-ups, and runs that are safer to leave alone."
 }
