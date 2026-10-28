@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.21.1",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.21.1/Octopi-0.21.1.dmg",
-  "sha256": "b7198e899c3f29505c69ca2addade0050ea02c2e1265afe85c4f42f140f67894",
-  "built_at": "2026-10-27T05:04:56Z",
+  "version": "0.21.2",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.21.2/Octopi-0.21.2.dmg",
+  "sha256": "6435502a4b66322be2493b4a8e7770ed557d912ced41d06f85c36eab84cd9f10",
+  "built_at": "2026-10-28T20:46:12Z",
   "engine_playwright": "1.64.1",
   "engine_chromium": "156.0.8078.4",
-  "notes": "Fixes from a live morning with 0.21.0: Salesforce says plainly when it needs a Due Date (and a task with no date is dated today when Salesforce requires one); a value that starts one option is that option (\"Dormant\"); a company is never answered \"not found\" because it was read as a person; a LinkedIn invitation that times out is retried and says whether Send was pressed. New: \"Always allow changes\" per CRM, and copy and paste with the keyboard in the chat."
+  "notes": "Every Ollama model is searchable from the Models window; cell text shows at the file's real sizes and Octopi writes at the sheet's size; similar companies are offered instead of \"not found\"; the chat says at once when the local model is struggling, answers CRM look-ups in French and German, and \"Fill in the missing emails\" offers a run."
 }
