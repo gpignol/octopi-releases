@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.22.2",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.22.2/Octopi-0.22.2.dmg",
-  "sha256": "835743b00335eb11e1e1e69d8d6430188acce8e0c2b1e054227c2e633633a3fb",
-  "built_at": "2026-11-01T20:36:10Z",
+  "version": "0.22.3",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.22.3/Octopi-0.22.3.dmg",
+  "sha256": "06a555141498adfb54d9ce8799e1f3d8a8c344320f959ed2915406f3c1c7007a",
+  "built_at": "2026-11-02T16:42:52Z",
   "engine_playwright": "1.64.1",
   "engine_chromium": "156.0.8078.4",
-  "notes": "CRM checks fixed: \"not in HubSpot\" counts as an answer, the check always runs, and a missing website reads partial. Plus: no false network alert after a restart, and security-checked sites count as \"couldn't be checked\"."
+  "notes": "The browser opens behind Octopi at launch, and setup no longer shows a false \"unexpected connection\" alert. Plus: a review item says when a run could not check its row. Needs macOS 14 or later."
 }
