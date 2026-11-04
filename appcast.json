@@ -1,10 +1,10 @@
 {
   "name": "Octopi",
-  "version": "0.22.3",
-  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.22.3/Octopi-0.22.3.dmg",
-  "sha256": "06a555141498adfb54d9ce8799e1f3d8a8c344320f959ed2915406f3c1c7007a",
-  "built_at": "2026-11-02T16:42:52Z",
+  "version": "0.23.0",
+  "dmg_url": "https://github.com/gpignol/octopi-releases/releases/download/v0.23.0/Octopi-0.23.0.dmg",
+  "sha256": "df9aa46646c5a18593b94d1ca28c4933c4eb752c04a1bf8d26a961c141df5c80",
+  "built_at": "2026-11-04T17:39:17Z",
   "engine_playwright": "1.64.1",
   "engine_chromium": "156.0.8078.4",
-  "notes": "The browser opens behind Octopi at launch, and setup no longer shows a false \"unexpected connection\" alert. Plus: a review item says when a run could not check its row. Needs macOS 14 or later."
+  "notes": "Talk with the chat out loud in a natural voice, and find Ollama's community models."
 }
